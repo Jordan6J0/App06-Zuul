@@ -1,0 +1,4 @@
+
+Finish the game. The idea was to have the player search around High Wycombe, looking through stores to find their ID card so that they could return to university. I was unable to finish the code so i would have liked to see these missing items.
+Missing locked door, roadblock, collectables, points system and health system. 
+id also improve it by adding more rooms and an in-game map. 
