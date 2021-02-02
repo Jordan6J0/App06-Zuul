@@ -1,3 +1,4 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 /**
@@ -42,6 +43,7 @@ public class Parser
         System.out.print("> ");     // print prompt
 
         inputLine = reader.nextLine();
+        inputLine = inputLine.toLowerCase();
 
         // Find up to two words on the line.
         Scanner tokenizer = new Scanner(inputLine);
