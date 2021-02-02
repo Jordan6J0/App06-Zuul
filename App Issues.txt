@@ -1,0 +1,4 @@
+My three issues.
+1.Adding contractors to the classes
+2.Items list
+3.Fix location names(currently says null)
